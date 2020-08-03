@@ -1,0 +1,62 @@
+
+body,html {
+	background-color: #FFF;
+}
+header {
+    background: #66cdaa;
+    padding: 20px 30px;
+    max-width: 940px;
+    margin: auto;
+    border-radius: 1px 1px 30px 30px;
+}
+nav {
+    display: inline-block;
+}
+
+address {
+    padding: 10px 20px 30px 10px;
+}
+aside > div {
+	margin: 10px auto;
+	background: #AEC6CF;
+	min-height: 100px;
+}
+#logo {
+    display: inline-block;
+    vertical-align: middle;
+    font-size: 30px;
+    margin-right: 75px;
+    color: #FFF;
+}
+#logo img {
+    width: 50px;
+    vertical-align: middle;
+    margin-right: 10px;
+}
+
+
+
+
+
+@media screen and (max-width: 1000px) {
+	body > section {
+		padding: 30px 20px;
+	}
+}
+@media screen and (max-width: 600px) {
+	main {
+		float: none;
+		width: 100%;
+	}
+	aside {
+		float: none;
+		width: 100%;
+    }
+    #logo {
+        margin-right: 0px;
+    }
+
+    header {
+        border-radius: 0px 0px 0px 0px;
+    }
+}

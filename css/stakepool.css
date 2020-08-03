@@ -1,0 +1,43 @@
+
+
+#title-metadata{
+    margin-top: 20px;
+    margin-bottom: 10px;
+}
+
+.stakepool-tab .metadata-table{
+    padding: 100px;
+    margin: auto;
+    width: 40%;
+}
+
+.operator-info{
+    padding: 20px;
+    margin-top: 40px;
+    padding-left: 50px;
+    padding-right: 50px;
+    margin: auto;
+    width: 40%;
+}
+
+.download-button
+{
+    min-width: 200px;
+}
+@media screen and (max-width: 1000px) {
+	body > section {
+		padding: 30px 20px;
+	}
+}
+@media screen and (max-width: 600px) {
+	.stakepool-tab .metadata-table{
+        padding: 0px;
+        margin: 5px;
+    }
+    #title-metadata{
+        margin-top: 10px;
+        margin-bottom: 10px;
+        width: 100%;
+    }
+    
+}
