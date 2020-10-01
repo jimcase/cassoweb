@@ -1,11 +1,11 @@
 {
     "info": {
-        "url_png_icon_64x64": "http(s) url to pool icon",
-        "url_png_logo": "http(s) url to pool logo",
-        "location": "London, England",
+        "url_png_icon_64x64": "https://jimcase.github.io/cassoweb/assets/C-icon64x64.png",
+        "url_png_logo": "https://jimcase.github.io/cassoweb/assets/C-icon.png",
+        "location": "Spain",
         "social": {
-            "twitter_handle": "AdapoolsO",
-            "telegram_handle": "adapools_ops",
+            "twitter_handle": "SirCasso",
+            "telegram_handle": "JCAS0",
             "facebook_handle": "",
             "youtube_handle": "",
             "twitch_handle": "",
@@ -13,29 +13,25 @@
             "github_handle": ""
         },
         "company": {
-            "name": "Company Name",
-            "addr": "Street, Number",
-            "city": "London",
-            "country": "England",
-            "company_id": "123456789",
-            "vat_id": "GB123456789"
+            "name": "",
+            "addr": "",
+            "city": "",
+            "country": "",
+            "company_id": "",
+            "vat_id": ""
         },
         "about": {
-            "me": "...",
-            "server": "Raspberry Pi Hosted at my Home in London 100MB up/down, solar energy.",
-            "company": "..."
+            "me": " I am computer science engineering, community member since Nov 2017, currently enrolled in Emurgo Academy.",
+            "server": "The 35w energy efficient node. 4 cores / 8 threads, 16GB RAM 2666MHz, 512GB NVMe M.2 SSD.",
+            "company": "Freelancer"
         },
-        "rss": "http(s) url to valid RSS feed"
+        "rss": ""
     },
     "my-pool-ids": {
-        "0": "0f292fcaa02b8b2f9b3c8f9fd8e0bb21abedb692a6d5058df3ef2735",
-        "1": "618ab17ec8ea7239b4ac0c826b667c599489e25524ce74841a29d510"
+        "0": "6b5179aee4db62de5bec35029e4c9b02145366acfec872f1594924db"
     },
     "when-satured-then-recommend": {
-        "0": "0f292fcaa02b8b2f9b3c8f9fd8e0bb21abedb692a6d5058df3ef2735",
-        "1": "618ab17ec8ea7239b4ac0c826b667c599489e25524ce74841a29d510"
-    },
-    "telegram-admin-handle": {
-        "0": "mnmnmnmnnmn"
+        "0": "bd24b3372791f401cc029455c44ea77f3c8750ce3b804a354af0ff16",
+        "1": "bb224ee756ce73c513d9e43323560e6ab644db83fb57eff613503953"
     }
 }
