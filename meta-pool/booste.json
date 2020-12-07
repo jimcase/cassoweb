@@ -1,12 +1,12 @@
 {
     "info": {
-        "url_png_icon_64x64": "https://jimcase.github.io/cassoweb/assets/C-icon64x64.png",
-        "url_png_logo": "https://jimcase.github.io/cassoweb/assets/C-icon.png",
+        "url_png_icon_64x64": "https://jimcase.github.io/casoweb/assets/C-icon64x64.png",
+        "url_png_logo": "https://jimcase.github.io/casoweb/assets/C-icon.png",
         "location": "Spain",
         "social": {
-            "twitter_handle": "SirCasso",
-            "telegram_handle": "JCAS0",
-            "facebook_handle": "",
+            "twitter_handle": "AdaBooster",
+            "telegram_handle": "adabooster",
+            "facebook_handle": "adabooster.cardano",
             "youtube_handle": "",
             "twitch_handle": "",
             "discord_handle": "",
@@ -31,7 +31,6 @@
         "0": "6b5179aee4db62de5bec35029e4c9b02145366acfec872f1594924db"
     },
     "when-satured-then-recommend": {
-        "0": "bd24b3372791f401cc029455c44ea77f3c8750ce3b804a354af0ff16",
-        "1": "bb224ee756ce73c513d9e43323560e6ab644db83fb57eff613503953"
+        "0": ""
     }
 }
