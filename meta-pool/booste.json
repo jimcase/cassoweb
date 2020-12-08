@@ -13,17 +13,17 @@
             "github_handle": ""
         },
         "company": {
-            "name": "",
-            "addr": "",
+            "name": "dSide Solutions",
+            "addr": "distributed",
             "city": "",
             "country": "",
             "company_id": "",
             "vat_id": ""
         },
         "about": {
-            "me": " I am computer science engineering, community member since Nov 2017, currently enrolled in Emurgo Academy.",
-            "server": "The 35w energy efficient node. 4 cores / 8 threads, 16GB RAM 2666MHz, 512GB NVMe M.2 SSD.",
-            "company": "Freelancer"
+            "me": "We are a multidisciplinary team that maintains, supports and educates the community, powered by side.solutions, a hub focused on the Hispanic community, especially in Spain, Argentina and Uruguay.",
+            "server": "4/8 cores/threads, 24GB RAM, 512GB NVMe M.2 SSD.",
+            "company": "dside.solutions"
         },
         "rss": ""
     },
