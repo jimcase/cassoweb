@@ -1,7 +1,7 @@
 {
     "info": {
-        "url_png_icon_64x64": "https://jimcase.github.io/casoweb/assets/C-icon64x64.png",
-        "url_png_logo": "https://jimcase.github.io/casoweb/assets/C-icon.png",
+        "url_png_icon_64x64": "https://jimcase.github.io/cassoweb/assets/adabooster-logo64.png",
+        "url_png_logo": "https://jimcase.github.io/cassoweb/assets/adabooster-logo.png",
         "location": "Spain",
         "social": {
             "twitter_handle": "AdaBooster",
@@ -22,7 +22,7 @@
         },
         "about": {
             "me": "We are a multidisciplinary team that maintains, supports and educates the community, powered by side.solutions, a hub focused on the Hispanic community, especially in Spain, Argentina and Uruguay.",
-            "server": "4/8 cores/threads, 24GB RAM, 512GB NVMe M.2 SSD.",
+            "server": "Multi-cloud & baremetal 4/8 cores/threads, 24GB RAM, 512GB NVMe M.2 SSD.",
             "company": "dside.solutions"
         },
         "rss": ""
