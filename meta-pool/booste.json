@@ -13,7 +13,7 @@
             "github_handle": ""
         },
         "company": {
-            "name": "dSide Solutions",
+            "name": "dBooster",
             "addr": "Distributed",
             "city": "",
             "country": "",
@@ -21,9 +21,9 @@
             "vat_id": ""
         },
         "about": {
-            "me": "We are a multidisciplinary team that maintains, supports and educates the community, powered by side.solutions, a hub focused on the Hispanic community, especially in Spain, Argentina and Uruguay.",
-            "server": "Multi-cloud & baremetal 4/8 cores/threads, 24GB RAM, 512GB NVMe M.2 SSD.",
-            "company": "dside.solutions"
+            "me": "Cloud Computing & Emurgo Academy learner.",
+            "server": "Multi-cloud & baremetal nodes. Servers in Holland, Germany and Spain.",
+            "company": "dBooster.io"
         },
         "rss": ""
     },
