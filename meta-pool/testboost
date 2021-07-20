@@ -1,0 +1,6 @@
+{
+"name": "Ada Booster Tesnet",
+"description": "Baremetal Stake Pool, 16vcpus 64Gb RAM",
+"ticker": "BOOST",
+"homepage": "https://dbooster.io"
+}
